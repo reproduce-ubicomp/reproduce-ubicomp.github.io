@@ -1,15 +1,11 @@
 ---
 title: "Ricarda Link"
-permalink: /organizers/ricarda/
 header:
   image: /assets/images/bio-photo-RL.jpg
 excerpt: "University of Mannheim"
-author_profile: false
-classes: wide
 categories:
   - Organizer
 collection: organizers
-layout: single
 
 ---
 
