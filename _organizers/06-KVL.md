@@ -1,8 +1,8 @@
 ---
-title: "Dr. Marius Bock"
+title: "Prof. Kristof Van Laerhoven"
 header:
   teaser: https://mariusbock.github.io/images/profile.png
-excerpt: "PostDoc, University of Bonn"
+excerpt: "Full professor, University of Siegen"
 
 ---
 
