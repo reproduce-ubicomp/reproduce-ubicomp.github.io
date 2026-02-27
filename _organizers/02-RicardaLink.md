@@ -10,6 +10,7 @@ classes: wide
 categories:
   - Organizer
 collection: organizers
+layout:single
 
 ---
 

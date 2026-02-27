@@ -113,6 +113,12 @@ defaults:
     values:
       layout: single
       author_profile: false
+   - scope:
+      path: "_organizers"
+      type: organizers
+    values:
+      layout: single
+      author_profile: false
 
 category_archive:
   type: liquid
