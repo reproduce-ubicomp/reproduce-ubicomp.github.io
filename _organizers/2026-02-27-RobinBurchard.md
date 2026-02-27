@@ -2,6 +2,7 @@
 title: "Organizer:"
 categories:
   - Organizer
+collection: organizers
 
 ---
 
