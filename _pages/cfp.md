@@ -1,6 +1,7 @@
 ---
 permalink: /cfp/
 title: "Call for Papers"
+author_profile: false
 ---
 
 The reproducibility of research in wearable and ubiquitous computing is increasingly important as studies become more complex, relying on diverse sensors, datasets, and machine learning pipelines. This workshop aims to bring together researchers, practitioners, and tool developers to share methods, tools, and best practices that make UbiComp research more transparent, verifiable, and reusable.
