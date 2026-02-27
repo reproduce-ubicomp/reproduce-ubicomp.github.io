@@ -1,5 +1,6 @@
 ---
 title: "Ricarda Link"
+permalink: /organizers/ricarda/
 header:
   image: /assets/images/bio-photo-RL.jpg
   teaser: /assets/images/bio-photo-RL.jpg
@@ -13,3 +14,5 @@ collection: organizers
 ---
 
 ![Ricarda](/assets/images/bio-photo-RL.jpg)
+
+University of Mannheim
