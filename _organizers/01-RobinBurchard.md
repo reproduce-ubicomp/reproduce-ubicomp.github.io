@@ -2,7 +2,7 @@
 title: "Baz Boom Identity"
 excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
 header:
-  image: /assets/images/bio-photo-RB.jpg
+  image: https://www.uni-siegen.de/files/default/styles/hero_xxl/public/media/image/2025-01/universitaetsiegen_campus_adolf-reichwein_ar__0.webp?h=977f2786&itok=n1m7wc6_
 
 ---
 
