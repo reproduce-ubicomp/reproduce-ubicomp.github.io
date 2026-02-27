@@ -1,9 +1,9 @@
 ---
-title: "Organizer:"
+title: "Robin Burchard"
 categories:
   - Organizer
 collection: organizers
 
 ---
 
-Robin Burchard
+Image here
