@@ -74,9 +74,12 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-      
- collections:
-  - organizers
+
+
+collections:
+  organizers:
+    output: true
+    permalink: /:collection/:path/
 
 #footer:
 #  links:
