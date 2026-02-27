@@ -1,12 +1,11 @@
 ---
-title: "Marius Bock"
+title: "Dr. Marius Bock"
 header:
-  teaser: /assets/images/bio-photo-RL.jpg
+  teaser: https://mariusbock.github.io/images/profile.png
 excerpt: "PostDoc, University of Bonn"
-collection: organizers
 
 ---
 
-![Ricarda](/assets/images/bio-photo-RL.jpg)
+![{{ page.title }}]({{ site.teaser }})
 
-University of Mannheim
+{{ page.excerpt }}
