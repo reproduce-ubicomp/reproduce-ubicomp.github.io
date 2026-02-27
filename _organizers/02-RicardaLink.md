@@ -1,5 +1,6 @@
 ---
 title: "Ricarda Link"
+image: assets/images/bio-photo-RL.jpg
 teaser: assets/images/bio-photo-RL.jpg
 excerpt: "University of Mannheim"
 
