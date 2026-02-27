@@ -1,5 +1,5 @@
 ---
-title: "Ricarda Link"
+title: "Marius Bock"
 header:
   teaser: /assets/images/bio-photo-RL.jpg
 excerpt: "PostDoc, University of Bonn"
