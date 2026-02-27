@@ -1,8 +1,8 @@
 ---
 title: "Ricarda Link"
 header:
-	image: /assets/images/bio-photo-RL.jpg
-	teaser: /assets/images/bio-photo-RL.jpg
+  image: /assets/images/bio-photo-RL.jpg
+  teaser: /assets/images/bio-photo-RL.jpg
 excerpt: "University of Mannheim"
 
 categories:
