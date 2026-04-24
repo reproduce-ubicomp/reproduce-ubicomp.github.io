@@ -1,40 +1,45 @@
 ---
-title: "Home"
+title: "Reproduce!"
 layout: splash
 permalink: /
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/refs/heads/master/docs/assets/images/unsplash-image-1.jpg
-  actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
-intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
-feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/refs/heads/master/docs/assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/refs/heads/master/docs/assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  overlay_color: "#1a1a2e"
+  overlay_filter: "0.6"
+  overlay_image: /assets/images/seed.svg
+excerpt: "A workshop on reproducibility in wearable sensing and ubiquitous computing research.<br><br>
+**October 11–15, 2026 · Shanghai, China · Co-located with UbiComp/ISWC 2026**"
 ---
 
-<!--{% include feature_row id="intro" type="center" %}
+<div style="max-width: 860px; margin: 3em auto; padding: 0 1em;">
 
-{% include feature_row %}-->
+  <h1 style="font-size: 2.5em; text-align: center; margin-bottom: 1em;">Welcome to the official website of the Reproduce-UbiComp Workshop!</h1>
 
-<h2> Welcome to the official website of the Reproduce-Ubicomp Workshop!</h2>
+  <h2>Reproduce: The First Workshop on Reproducible Methods for
+      Wearable Sensing and Ubiquitous Computing</h2>
+  <p>
+    Wearable and ubiquitous computing research depends on real-world data, heterogeneous devices, and complex
+    machine learning pipelines. Missing code, undocumented preprocessing steps, and hardware-specific assumptions are just some of the hurdles researchers
+    face when trying to build on prior work. In wearable sensing specifically, challenges run even deeper: sensor
+    placement varies across participants, sampling rates differ between devices, and privacy constraints often
+    prevent data from being shared at all. This workshop brings together researchers to share methods, tools, and best practices that make UbiComp research more transparent, verifiable,
+    and reusable. Topics of interest include open-source tooling, benchmark datasets, reproducible machine learning,
+    data sharing, open hardware, and case studies of both successful and unsuccessful reproduction attempts.
+  </p>
 
-<p>This page is still under construction and will be filled with content soon!</p>
+  <hr>
+
+  <div style="display: flex; align-items: center; gap: 2em; flex-wrap: wrap;">
+    <div style="flex: 0 0 220px;">
+      <img src="/assets/images/seed.svg" alt="A growing seed" style="width: 220px; height: 220px; object-fit: contain;">
+    </div>
+    <div style="flex: 1; min-width: 220px;">
+      <h2>Help us plant the seeds!</h2>
+      <p>
+        Reproducibility is not just about sharing code. It is about cultivating habits, tools, and a culture
+        that lets science grow. And it starts with small, deliberate choices — like setting <code>random.seed(42)</code>.
+        Join us in Shanghai and help the community take root.
+      </p>
+    </div>
+  </div>
+
+</div>
