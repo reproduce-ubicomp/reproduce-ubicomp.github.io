@@ -3,6 +3,8 @@ permalink: /cfp/
 title: "Call for Participation"
 author_profile: false
 classes: wide
+description: >-
+  Reproduce! The First Workshop on Reproducible Methods for Wearable Sensing and Ubiquitous Computing
 ---
 
 ## Call for Participation
