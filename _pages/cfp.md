@@ -7,6 +7,10 @@ description: >-
   Reproduce! The First Workshop on Reproducible Methods for Wearable Sensing and Ubiquitous Computing
 ---
 
+## Deadline:
+
+July 19, 2026 \[11:59 pm AoE\]
+
 ## Call for Participation
 
 The reproducibility of research in wearable and ubiquitous computing is increasingly important as studies become more complex, relying on diverse sensors, datasets, and machine learning pipelines. This workshop aims to bring together researchers, practitioners, and tool developers to share methods, tools, and best practices that make UbiComp research more transparent, verifiable, and reusable.
