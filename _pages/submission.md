@@ -5,7 +5,7 @@ author_profile: false
 classes: wide
 ---
 
-Please use [PCS](https://new.precisionconference.com/) for the submission process. Select "Ubicomp/ISWC Workshop 2026" as the Conference and "Ubicomp/ISWC Workshop 2026 Reproduce" as the track.
+Please use [PCS](https://new.precisionconference.com/) for the submission process. Select "SIGCHI" as society, "Ubicomp/ISWC Workshop 2026" as the Conference, and "Ubicomp/ISWC Workshop 2026 Reproduce" as the track.
 
 
 To facilitate a robust exchange of research and practical insights, we invite participants to submit short papers formatted according to the ACM double-column UbiComp-ISWC 2026 Proceedings. Submissions should address key aspects of reproducibility in ubiquitous and wearable computing research, including but not limited to: issues with reproducibility, open-source tools and datasets, position papers, challenges and considerations, and reproducibility case studies. We encourage submissions in one of the three formats:
