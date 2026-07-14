@@ -7,9 +7,13 @@ description: >-
   Reproduce! The First Workshop on Reproducible Methods for Wearable Sensing and Ubiquitous Computing
 ---
 
-## Deadline:
+## Deadlines:
 
-July 19, 2026 \[11:59 pm AoE\]
+Submission: July 19, 2026 \[11:59 pm AoE\]
+
+Notification: July 26, 2026
+
+Camera Ready: July 31, 2026
 
 ## Call for Participation
 
