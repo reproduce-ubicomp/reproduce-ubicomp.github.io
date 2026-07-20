@@ -13,7 +13,7 @@ Submission: July 19, 2026 \[11:59 pm AoE\]
 
 Notification: July 26, 2026
 
-Camera Ready: July 31, 2026
+Camera Ready: August 20, 2026
 
 ## Call for Participation
 
