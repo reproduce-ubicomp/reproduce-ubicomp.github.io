@@ -4924,6 +4924,14 @@ body {
   background: #252a2d;
 }
 
+.schedule-item2 {
+  margin-bottom: 7px;
+  padding: 9px 16px;
+  border: 1px solid #3f4447;
+  border-radius: 5px;
+  background: #30363a;
+}
+
 .schedule-expandable {
   padding: 0;
   background:  #30363a;
