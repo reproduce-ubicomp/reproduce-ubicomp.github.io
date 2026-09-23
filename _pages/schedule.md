@@ -39,23 +39,24 @@ page_css: "/assets/css/schedule.css"
 
       <div class="paper-list">
         <div class="paper">
-          <strong>Paper Title One</strong>
-          <span>Author One, Author Two, Author Three</span>
+		  <strong>Toward Reproducible XR Research: A Modular and Head Worn Sensing Platform</strong>
+          <span>Alexander Ching, Anum Ali, Abhishek Sehgal, Tao Chen, Viet Nguyen Rebal Jurdi, Neha Dawar, Yuming Zhu, Boon Loong Ng</span>
         </div>
 
         <div class="paper">
-          <strong>Paper Title Two</strong>
-          <span>Author One, Author Two</span>
+          <strong>From PCB to Packets: An Open Hardware and Firmware
+Foundation for Reproducible Wearable Motion Capture</strong>
+          <span>Franklin Wu, Xander Mills, Ruofeng Liu, Thomas J Gilbert</span>
         </div>
 
         <div class="paper">
-          <strong>Paper Title Three</strong>
-          <span>Author One, Author Two, Author Three</span>
+          <strong>A Body-Model-Grounded Approach to Reproducible Sensor Placement and Correction for HAR</strong>
+          <span>Ricarda Link</span>
         </div>
 
         <div class="paper">
-          <strong>Paper Title Four</strong>
-          <span>Author One, Author Two</span>
+          <strong>HAR-LOFT - Human In The Loop HAR Data Labeling Software and Benchmark</strong>
+          <span>Ryszard Błażej, Mateusz Danioł, Ryszard Sroka</span>
         </div>
       </div>
     </details>
@@ -77,23 +78,23 @@ page_css: "/assets/css/schedule.css"
 
       <div class="paper-list">
         <div class="paper">
-          <strong>Paper Title Five</strong>
-          <span>Author One, Author Two</span>
+          <strong>Where WiFi Sensing Fails: A Reproducibility Study of CSI-IMU Substitution for Human Activity Recognition</strong>
+          <span>Joost Liebeton, Egemen İşgüder, Özlem Durmaz Incel, Jeroen Klein Brinke</span>
         </div>
 
         <div class="paper">
-          <strong>Paper Title Six</strong>
-          <span>Author One, Author Two, Author Three</span>
+          <strong>Reproducing HAR Models: Code Implementation and Evaluation Hurdles</strong>
+          <span>Sinan Pourazari, Robin Burchard, Kristof Van Laerhoven</span>
         </div>
 
         <div class="paper">
-          <strong>Paper Title Seven</strong>
-          <span>Author One, Author Two</span>
+          <strong>Semi-Automated Reproduction of IMWUT Research Results using Human-in-the-Loop LLM prompting</strong>
+          <span>Felix Schneider, Robin Burchard, Kristof Van Laerhoven</span>
         </div>
 
         <div class="paper">
-          <strong>Paper Title Eight</strong>
-          <span>Author One, Author Two, Author Three</span>
+          <strong>Reproducibility Begins at Acquisition: The ACQUIRE Framework for Trustworthy In-the-Wild Sensing</strong>
+          <span>Mateusz Danioł, Ryszard Sroka</span>
         </div>
       </div>
     </details>
