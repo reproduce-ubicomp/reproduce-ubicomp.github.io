@@ -4913,79 +4913,47 @@ body {
 
 @import "minimal-mistakes";
 
+/* Schedule */
 .schedule-item {
-  margin-bottom: 7px;
-  padding: 9px 16px;
-  border: 1px solid #dce8d2;
-  border-radius: 5px;
-  background: #f2f6ef;
+  border-bottom: 1px solid #3f4447;
+  background: #252a2d;
 }
 
+.schedule-item .time {
+  color: #9da5aa;
+}
+
+.schedule-item .title {
+  color: #f2f2f2;
+}
+
+/* Expandable paper sessions */
 .schedule-expandable {
-  padding: 0;
-  background: #cfe2b5;
+  background: #30363a;
+  border-bottom: 1px solid #3f4447;
 }
 
 .schedule-expandable summary {
-  display: grid;
-  grid-template-columns: 185px 1fr 30px;
-  align-items: center;
-  padding: 9px 16px;
-  cursor: pointer;
-  list-style: none;
+  color: #f2f2f2;
 }
 
-.schedule-expandable summary::-webkit-details-marker {
-  display: none;
+.schedule-expandable summary::after {
+  color: #9da5aa;
 }
 
-.schedule-time {
-  color: #315e35;
-  font-weight: 600;
-}
-
-.schedule-title {
-  color: #23492a;
-}
-
-.schedule-arrow {
-  font-size: 20px;
-  text-align: center;
-  color: #315e35;
-}
-
-.schedule-expandable[open] .schedule-arrow {
-  transform: rotate(45deg);
-}
-
+/* Papers */
 .paper-list {
-  margin: 0 16px 12px 185px;
-  border-top: 1px solid rgba(35, 73, 42, 0.18);
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
 }
 
 .paper {
-  padding: 9px 12px;
-  font-size: 0.9em;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
 }
 
-.paper strong {
-  display: block;
-  color: #23492a;
+.paper-title {
+  color: #f2f2f2;
 }
 
-.paper span {
-  display: block;
-  margin-top: 2px;
-  color: #667266;
-  font-size: 0.9em;
-}
-
-@media (max-width: 600px) {
-  .schedule-expandable summary {
-    grid-template-columns: 120px 1fr 25px;
-  }
-
-  .paper-list {
-    margin-left: 120px;
-  }
+.paper-authors {
+  color: #b0b7bb;
 }
