@@ -18,14 +18,14 @@ page_css: "/assets/css/schedule.css"
       <span class="schedule-title">Registration</span>
     </div>
 
-    <div class="schedule-item">
+    <div class="schedule-item2">
       <span class="schedule-time">08:30 – 08:45</span>
       <span class="schedule-title">Welcome &amp; Introduction</span>
     </div>
 
     <div class="schedule-item">
       <span class="schedule-time">08:45 – 09:30</span>
-      <span class="schedule-title">Keynote Talk by Prof. Dr. XXX</span>
+      <span class="schedule-title">Keynote Talk by TBA</span>
     </div>
 
 
@@ -106,7 +106,7 @@ page_css: "/assets/css/schedule.css"
       </span>
     </div>
 
-    <div class="schedule-item schedule-break">
+    <div class="schedule-item2 schedule-break">
       <span class="schedule-time">12:30 – 14:00</span>
       <span class="schedule-title">Lunch / End of Workshop</span>
     </div>

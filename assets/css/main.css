@@ -537,7 +537,7 @@ body {
 
 ::selection {
     color: #fff;
-    background: #000
+    background: #000;
 }
 
 article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section {
@@ -4932,7 +4932,7 @@ body {
 
 .schedule-expandable summary {
   display: grid;
-  grid-template-columns: 185px 1fr 30px;
+  grid-template-columns: 150px 1fr 25px;
   align-items: center;
   padding: 9px 16px;
   cursor: pointer;
@@ -4950,18 +4950,19 @@ body {
 }
 
 .schedule-time {
-  color: #315e35;
-  font-weight: 600;
+  color: #f2f2f2;
+  font-weight: 800;
 }
 
 .schedule-title {
-  color: #23492a;
+  color: #f2f2f2;
+  margin-left: 20px;
 }
 
 .schedule-arrow {
   font-size: 20px;
   text-align: center;
-  color: #315e35;
+  color: #f2f2f2;
 }
 
 .schedule-expandable[open] .schedule-arrow {
@@ -4969,7 +4970,7 @@ body {
 }
 
 .paper-list {
-  margin: 0 16px 12px 185px;
+  margin: 0 0px 0px 180px;
   border-top: 1px solid rgba(255, 255, 255, 0.12);
 }
 
@@ -5001,10 +5002,31 @@ body {
 
 @media (max-width: 600px) {
   .schedule-expandable summary {
-    grid-template-columns: 120px 1fr 25px;
+    grid-template-columns:  12px 2fr 25px;
   }
 
   .paper-list {
     margin-left: 120px;
   }
+}
+
+@property --transition-duration {
+  syntax: '<time>';
+  inherits: true;
+  initial-value: 0.2s;
+}
+
+details::details-content {
+  block-size: 0;
+  overflow: hidden;
+  transition: block-size var(--transition-duration, 0.2s) ease,
+              opacity var(--transition-duration, 0.2s) ease,
+              content-visibility var(--transition-duration, 0.2s) allow-discrete;
+  opacity: 0;
+}
+
+details[open]::details-content {
+  block-size: auto;
+  block-size: calc-size(auto, size);
+  opacity: 1;
 }
