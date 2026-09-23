@@ -4910,3 +4910,82 @@ body {
         height: 1px !important
     }
 }
+
+@import "minimal-mistakes";
+
+.schedule-item {
+  margin-bottom: 7px;
+  padding: 9px 16px;
+  border: 1px solid #dce8d2;
+  border-radius: 5px;
+  background: #f2f6ef;
+}
+
+.schedule-expandable {
+  padding: 0;
+  background: #cfe2b5;
+}
+
+.schedule-expandable summary {
+  display: grid;
+  grid-template-columns: 185px 1fr 30px;
+  align-items: center;
+  padding: 9px 16px;
+  cursor: pointer;
+  list-style: none;
+}
+
+.schedule-expandable summary::-webkit-details-marker {
+  display: none;
+}
+
+.schedule-time {
+  color: #315e35;
+  font-weight: 600;
+}
+
+.schedule-title {
+  color: #23492a;
+}
+
+.schedule-arrow {
+  font-size: 20px;
+  text-align: center;
+  color: #315e35;
+}
+
+.schedule-expandable[open] .schedule-arrow {
+  transform: rotate(45deg);
+}
+
+.paper-list {
+  margin: 0 16px 12px 185px;
+  border-top: 1px solid rgba(35, 73, 42, 0.18);
+}
+
+.paper {
+  padding: 9px 12px;
+  font-size: 0.9em;
+}
+
+.paper strong {
+  display: block;
+  color: #23492a;
+}
+
+.paper span {
+  display: block;
+  margin-top: 2px;
+  color: #667266;
+  font-size: 0.9em;
+}
+
+@media (max-width: 600px) {
+  .schedule-expandable summary {
+    grid-template-columns: 120px 1fr 25px;
+  }
+
+  .paper-list {
+    margin-left: 120px;
+  }
+}
