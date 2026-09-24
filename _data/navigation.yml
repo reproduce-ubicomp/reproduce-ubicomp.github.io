@@ -1,11 +1,11 @@
 main:
   - title: "News"
     url: /news/
+  - title: "Schedule"
+    url: /schedule/
   - title: "CFP"
     url: /cfp/
   - title: "Submission"
     url: /submission/
-  - title: "Schedule"
-    url: /schedule/
   - title: "Organizers"
     url: /organizers/

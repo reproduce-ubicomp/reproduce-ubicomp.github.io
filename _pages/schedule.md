@@ -3,19 +3,18 @@ permalink: /schedule/
 title: "Schedule"
 author_profile: false
 classes: wide
-page_css: "/assets/css/schedule.css"
 ---
 <div class="schedule">
 
   <div class="schedule-day">
     <h2>
       <span>SUNDAY, OCTOBER 11</span>
-      <span>ROOM 5B</span>
+      <span> – ROOM 5B</span>
     </h2>
 
     <div class="schedule-item">
       <span class="schedule-time">08:00 – 08:30</span>
-      <span class="schedule-title">Registration</span>
+      <span class="schedule-title">Registration (1F)</span>
     </div>
 
     <div class="schedule-item2">
