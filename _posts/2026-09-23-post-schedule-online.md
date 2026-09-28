@@ -12,8 +12,8 @@ We will have a keynote speaker, a total of eight paper presentations and a group
 
 Session I will focus on practical works that showcase how reproducibility can work in real-world research, in hardware design, experiment design, and data labeling.
 
-After the coffee break, Session II will focus more on attempts and hurdles of reproduction , theoretical, and practical aspects of reproducibility.
+After the coffee break, Session II will focus more on attempts and hurdles of reproduction, theoretical, and practical aspects of reproducibility.
 
 We are looking forward to meeting you in Shanghai!
 
-- The organizers
+\- The organizers

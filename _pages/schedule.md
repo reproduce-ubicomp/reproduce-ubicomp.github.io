@@ -14,7 +14,7 @@ classes: wide
 
     <div class="schedule-item">
       <span class="schedule-time">08:00 – 08:30</span>
-      <span class="schedule-title">Registration (1F)</span>
+      <span class="schedule-title">Conference Registration (1F)</span>
     </div>
 
     <div class="schedule-item2">
