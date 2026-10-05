@@ -24,7 +24,7 @@ classes: wide
 
     <div class="schedule-item">
       <span class="schedule-time">08:45 – 09:30</span>
-      <span class="schedule-title">Keynote Talk by TBA</span>
+      <span class="schedule-title">Keynote Talk by Prof. Thomas Ploetz</span>
     </div>
 
 
