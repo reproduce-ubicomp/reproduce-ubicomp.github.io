@@ -24,7 +24,7 @@ classes: wide
 
     <div class="schedule-item">
       <span class="schedule-time">08:45 – 09:30</span>
-      <span class="schedule-title">Keynote Talk by Prof. Thomas Ploetz</span>
+      <span class="schedule-title">Keynote <a href=https://www.cc.gatech.edu/people/thomas-ploetz>Talk by Prof. Thomas Ploetz</a></span>
     </div>
 
 
