@@ -5038,3 +5038,14 @@ details[open]::details-content {
   block-size: calc-size(auto, size);
   opacity: 1;
 }
+
+.schedule a,
+.schedule a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+.schedule a:hover {
+  color: white;
+  text-decoration: underline;
+}
