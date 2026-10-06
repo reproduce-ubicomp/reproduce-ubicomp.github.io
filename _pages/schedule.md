@@ -24,7 +24,7 @@ classes: wide
 
     <div class="schedule-item">
       <span class="schedule-time">08:45 – 09:30</span>
-      <span class="schedule-title">Keynote Talk by Prof. Thomas Ploetz</span>
+      <span class="schedule-title">Keynote Talk by <a href="https://www.cc.gatech.edu/people/thomas-ploetz" target="_blank" rel="noopener">Prof. Thomas Ploetz</a></span>
     </div>
 
 
@@ -43,8 +43,7 @@ classes: wide
         </div>
 
         <div class="paper">
-          <strong>From PCB to Packets: An Open Hardware and Firmware
-Foundation for Reproducible Wearable Motion Capture</strong>
+          <strong>From PCB to Packets: An Open Hardware and Firmware Foundation for Reproducible Wearable Motion Capture</strong>
           <span>Franklin Wu, Xander Mills, Ruofeng Liu, Thomas J Gilbert</span>
         </div>
 
