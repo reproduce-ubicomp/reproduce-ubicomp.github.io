@@ -1,8 +1,8 @@
 main:
-  - title: "News"
-    url: /news/
   - title: "Schedule"
     url: /schedule/
+  - title: "News"
+    url: /news/
   - title: "CFP"
     url: /cfp/
   - title: "Submission"
