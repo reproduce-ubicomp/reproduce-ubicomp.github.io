@@ -1,11 +1,29 @@
 main:
-  - title: "Schedule"
-    url: /schedule/
   - title: "News"
     url: /news/
+  - title: "Schedule"
+    url: /schedule/
   - title: "CFP"
     url: /cfp/
   - title: "Submission"
     url: /submission/
   - title: "Organizers"
     url: /organizers/
+  - title: "Past Editions"
+    url: /editions/
+
+archive_2026:
+  - title: "Reproduce! 2026 (Archive)"
+    children:
+      - title: "Overview"
+        url: /2026/
+      - title: "Schedule & Papers"
+        url: /2026/schedule/
+      - title: "Call for Participation"
+        url: /2026/cfp/
+      - title: "Submission Process"
+        url: /2026/submission/
+      - title: "Organizers"
+        url: /2026/organizers/
+      - title: "← All Editions"
+        url: /editions/

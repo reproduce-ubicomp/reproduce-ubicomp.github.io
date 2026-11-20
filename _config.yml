@@ -16,7 +16,7 @@
 title: Reproduce!
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Reproduce! The First Workshop on Reproducible Methods for Wearable Sensing and Ubiquitous Computing
+  Reproduce! Workshop Series on Reproducible Methods for Wearable Sensing and Ubiquitous Computing
 #twitter_username: username
 #github_username: username
 minimal_mistakes_skin: dark
@@ -33,7 +33,6 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
-  - _organizers
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -56,29 +55,10 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
-
 collections:
-  organizers:
+  organizers_2026:
     output: true
-    permalink: /:collection/:path/
+    permalink: /2026/organizers/:path/
 
 #footer:
 #  links:
@@ -104,19 +84,33 @@ defaults:
       comments: true
       share: true
       related: false
-  # _pages
+  # _pages (current edition)
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
       author_profile: false
+  # _pages/2026 (2026 archive pages)
   - scope:
-      path: "_organizers"
-      type: organizers
+      path: "_pages/2026"
+      type: pages
     values:
       layout: single
       author_profile: false
+      classes: wide
+      sidebar:
+        nav: "archive_2026"
+  # _organizers_2026 (2026 organizer bio pages)
+  - scope:
+      path: ""
+      type: organizers_2026
+    values:
+      layout: single
+      author_profile: false
+      classes: wide
+      sidebar:
+        nav: "archive_2026"
 
 category_archive:
   type: liquid

@@ -5,19 +5,22 @@ author_profile: false
 classes: wide
 ---
 
-Please use [PCS](https://new.precisionconference.com/) for the submission process. Select "SIGCHI" as society, "Ubicomp/ISWC Workshop 2026" as the Conference, and "Ubicomp/ISWC Workshop 2026 Reproduce" as the track.
+<div class="notice--info">
+  <strong>Submissions Not Yet Open:</strong>
+  The submission portal and track details for Reproduce! 2027 (co-located with UbiComp/ISWC 2027 in Seoul, South Korea) will be announced once the workshop is confirmed.
+  <a href="/2026/submission/">View the 2026 submission details for reference &rarr;</a>
+</div>
 
+Submissions are expected to be managed through the [Precision Conference System (PCS)](https://new.precisionconference.com/) under SIGCHI / UbiComp-ISWC 2027 Workshops. Exact conference and track names will be posted here as soon as the portal opens.
 
-To facilitate a robust exchange of research and practical insights, we invite participants to submit short papers formatted according to the ACM double-column UbiComp-ISWC 2026 Proceedings. Submissions should address key aspects of reproducibility in ubiquitous and wearable computing research, including but not limited to: issues with reproducibility, open-source tools and datasets, position papers, challenges and considerations, and reproducibility case studies. We encourage submissions in one of the three formats:
+To facilitate a robust exchange of research and practical insights, we plan to invite participants to submit short papers formatted according to the ACM double-column UbiComp-ISWC 2027 Proceedings. Anticipated submission formats (subject to confirmation):
 
 - Position papers (2-4 pages, excluding references and appendices) presenting perspectives, challenges, or visionary ideas.
 - Research proposals (2-4 pages, excluding references and appendices) outlining ongoing or planned research, including preliminary findings.
-- Research Papers (4-6 pages, excluding references and appendices) presenting mature research findings or well-developed concepts. 
+- Research Papers (4-6 pages, excluding references and appendices) presenting mature research findings or well-developed concepts.
 
+A peer review process will be conducted by the organizing committee. Details on review format, publication in the ACM Digital Library (DL) and Adjunct Proceedings, and camera-ready requirements will be confirmed once the call officially opens.
 
-A peer review process will be conducted by the organizing committee. Each submission will undergo a single-blind review by one or two committee members. Authors are not required to anonymize their papers for submission. Following the individual reviews, the organizers will jointly select the accepted papers. All submissions will be managed through the Precision Conference System (PCS). Accepted papers will be published in the ACM Digital Library (DL) and the Adjunct Proceedings, ensuring a broad distribution of the workshop's contributions.
+## Deadline
 
-
-## Deadline:
-
-July 19, 2026 \[11:59 pm AoE\]
+**TBD**
